@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/addressMgr/main",
+    "pages/addAddress/main",
+    "pages/loginWechat/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "SeeGo",
+    "navigationBarTextStyle": "black"
+  }
+}
